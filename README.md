@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @NatelyGamer
-- 👀 I’m interested in game development.
-- 🌱 I’m currently learning Computer Science.
-- 💞️ I’m looking to collaborate on school projects.
-- 📫 How to reach me: don't worry, I'll call you!
+- Hi there, I’m @NatelyGamer
+- I’m interested in game development and design.
+- I’m currently learning Computer Science at Carolina University.
+- I’m looking to collaborate on school projects, pls help
+- How to reach me: You won't
 
 <!---
 NatelyGamer/NatelyGamer is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
